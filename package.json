@@ -1,0 +1,19 @@
+{
+  "name": "param-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.6.0",
+    "ajv": "^6.12.4",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^3.9.7"
+  }
+}
